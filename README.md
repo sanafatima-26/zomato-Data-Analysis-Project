@@ -1,0 +1,1 @@
+This project focuses on analyzing customer and restaurant partner data from Zomato, one of India’s leading food delivery platforms. With over 17.5 million monthly transacting customers and a growing network of restaurant partners, Zomato provides a rich dataset for exploring customer behavior, business growth, and operational insights.
